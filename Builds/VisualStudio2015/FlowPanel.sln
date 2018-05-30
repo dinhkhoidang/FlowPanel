@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{5D2EFB45-5638-552D-04FB-8FBB7B85CC80}") = "FlowPanel", "FlowPanel.vcxproj", "{AF3CEA0D-2690-28EA-BA6C-D624D900190D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3CEA0D-2690-28EA-BA6C-D624D900190D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF3CEA0D-2690-28EA-BA6C-D624D900190D}.Debug|Win32.Build.0 = Debug|Win32
+		{AF3CEA0D-2690-28EA-BA6C-D624D900190D}.Release|Win32.ActiveCfg = Release|Win32
+		{AF3CEA0D-2690-28EA-BA6C-D624D900190D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
